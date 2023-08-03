@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\PrimitiveTypes\PrimitiveTypes\bin\Debug\PrimitiveTypes.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\PrimitiveTypes\PrimitiveTypes\bin\Debug\PrimitiveTypes.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\PrimitiveTypes\PrimitiveTypes\bin\Debug\PrimitiveTypes.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\PrimitiveTypes\PrimitiveTypes\obj\Debug\PrimitiveTypes.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\PrimitiveTypes\PrimitiveTypes\obj\Debug\PrimitiveTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\PrimitiveTypes\PrimitiveTypes\obj\Debug\PrimitiveTypes.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\PrimitiveTypes\PrimitiveTypes\obj\Debug\PrimitiveTypes.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-19\PrimitiveTypes\PrimitiveTypes\obj\Debug\PrimitiveTypes.pdb
